@@ -2812,12 +2812,45 @@ footer a:hover {
 }
 
 .findProduct select{
-    padding: 17px 121px 17px 17px;
+    padding: 17px 155px 17px 17px;
     border: none;
 }
 
 
+select.form-control,
+select.form-control-lg {
+    background: #fff url(../img/new/drop.svg) no-repeat right 27px center / 12px;
+    appearance: none;
+    font-size: 1.1rem;
+}
 
+.form-control:focus {
+    box-shadow: none;
+    outline: none;
+    background: transparent;
+}
+
+
+.findProductSearchBtn{
+    height: 62px !important;
+    margin-top: 32px;
+    border-radius: 0;
+    padding-right: 82px;
+    font-size: 20px;
+}
+
+.findProductList{
+    width: 100%;
+    border-bottom: 1px solid;
+    font-size: 20px;
+}
+.findProductList span{
+    border-radius: 50%;
+    padding: 7px;
+    font-size: 13px;
+    margin-right: 25px;
+    margin-left: 4px;
+}
 
 
 /* ________________________________ New CSS End ________________________________ */

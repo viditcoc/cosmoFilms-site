@@ -247,23 +247,22 @@
                         <div>
                             <form action="">
                                 <div class="d-flex">
-                                    <div class="findProduct border border-danger border-bottom">
+                                    <div class="findProduct">
                                         <label class="pb-2" for="selectProduct">Product</label>
                                         <br>
-                                        <select class="bg-white" name="" id="selectProduct">
+                                        <select class="form-control bg-white border-danger border-bottom border-3" name="" id="selectProduct">
                                             <option selected disabled value="">Select Products</option>
                                             <option>...</option>
                                             <option>...</option>
                                             <option>...</option>
                                             <option>...</option>
-                                            
                                         </select>
                                     </div>
 
                                     <div class="findProduct ps-5">
                                         <label class="pb-2" for="selectProduct">Industrial Application</label>
                                         <br>
-                                        <select class="bg-white" name="" id="selectProduct">
+                                        <select class="form-control bg-white border-bottom border-dark" name="" id="selectProduct">
                                             <option selected disabled value="">Industrial Application</option>
                                             <option>...</option>
                                             <option>...</option>
@@ -272,8 +271,78 @@
                                             
                                         </select>
                                     </div>
+                                    <button type="button" class="ms-5 findProductSearchBtn btn btn-danger"><img class="ps-3 pe-2"  src="img/new/white-search-icon.svg" alt=""> Search</button>
                                 </div>
+                                <div class="pt-5"></div>
+                                <div class="pt-3"></div>
                             </form>
+
+                            <div class="row">
+                                <div class="col-5">
+                                    <div class="pt-3 findProductList bg-danger bg-opacity-10">
+                                        <p><span class="bg-danger text-white">01</span>Bopp Films</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">02</span>Labelling</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">03</span>Lamination</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">04</span>Synthetic Paper</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">05</span>Barrier Films</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">06</span>PE Films</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">07</span>Industrial Films</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">08</span>CPP Films</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">09</span>Rigid Packaging</p>
+                                    </div>
+                                    <div class="pt-3 findProductList">
+                                        <p class=""><span class="">10</span>Window Films</p>
+                                    </div>
+                                </div>
+                                <div class="col-1"></div>
+                                <div class="col-6">
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <p class=" pt-4 fs-4 text-danger">Bopp Films</p>
+
+                                            <ul class="lh-lg">
+                                                <li>Excellent machinability</li>
+                                                <li>Good ink adhesion</li>
+                                                <li>High heat seal strength</li>
+                                                <li>Good optical properties</li>
+                                                <li class="lh-base">Seals at low temperature, hence broader heat seal temperature range</li>
+                                                <li>Low COF throughout printing & laminating process</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-4">
+                                            <div class="d-flex justify-content-end">
+                                                <img class="" src="img/new/red-aero-in-circle.svg" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="pt-4"></div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <img src="img/new/find-product1.jpg" alt="">
+                                        </div>
+                                        <div class="col-6">
+                                            <img src="img/new/find-product2.jpg" alt="">
+                                            <img src="img/new/find-product3.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

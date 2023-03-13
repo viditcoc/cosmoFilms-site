@@ -353,6 +353,59 @@
 
 
 
+            <!-- Worldwide clientage & Industry we serve... START -->
+
+
+                <div class="container-fluid">
+                    <div class="p-5 m-5">
+                        <div class="row">
+                            <div class="col-7">
+                                <div class="pe-4">
+                                    <p class="fs-4">Worldwide clientage</p>
+                                    <div class="pt-5"></div>
+                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
+                                        <img class="px-4" src="img/new/client1.png" alt="">
+                                        <img class="px-4" src="img/new/client2.png" alt="">
+                                        <img class="px-4" src="img/new/client3.png" alt="">
+                                        <img class="px-4" src="img/new/client4.png" alt="">
+                                    </div>
+                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
+                                        <img class="px-4" src="img/new/client5.png" alt="">
+                                        <img class="px-4" src="img/new/client6.png" alt="">
+                                        <img class="px-4" src="img/new/client7.png" alt="">
+                                        <img class="px-4" src="img/new/client8.png" alt="">
+                                    </div>
+                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
+                                        <img class="px-4" src="img/new/client9.png" alt="">
+                                        <img class="px-4" src="img/new/client10.png" alt="">
+                                        <img class="px-4" src="img/new/client11.png" alt="">
+                                        <img class="px-4" src="img/new/client12.png" alt="">
+                                    </div>
+                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
+                                        <img class="px-4" src="img/new/client13.png" alt="">
+                                        <img class="px-4" src="img/new/client14.png" alt="">
+                                        <img class="px-4" src="img/new/client15.png" alt="">
+                                        <img class="px-4" src="img/new/client16.png" alt="">
+                                    </div>
+                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
+                                        <img class="px-4" src="img/new/client17.png" alt="">
+                                        <img class="px-4" src="img/new/client18.png" alt="">
+                                        <img class="px-4" src="img/new/client19.png" alt="">
+                                        <img class="px-4" src="img/new/client20.png" alt="">
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="col-5 goodBackground" style="background-image: url(img/new/industry-we-serve-bg.jpg);">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            <!-- Worldwide clientage & Industry we serve... END -->
 
 
             

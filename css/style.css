@@ -2853,4 +2853,43 @@ select.form-control-lg {
 }
 
 
+.clientLogo{
+
+}
+
+.serveLogoDiv{
+    height: 147px;
+}
+
+.testimonialsCard{
+    height: 494px !important;
+}
+
+.testimonialsCardTitle{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.testimonialsCardSubTitle{
+    font-size: 1rem;
+    color: #767676;
+}
+
+.testimonialsCardSubTitle2{
+    font-size: 1rem;
+    color: #c0c0c0;
+}
+
+.testimonialsCardSubPara{
+    font-size: 0.85rem;
+    color: #787878;
+}
+
+
+.bgRedBlack{
+    background: rgb(210,2,32);
+    background: linear-gradient(0deg, rgba(210,2,32,1) 0%, rgba(210,2,32,1) 30%, rgba(31,31,31,1) 30%);
+}
+
+
 /* ________________________________ New CSS End ________________________________ */

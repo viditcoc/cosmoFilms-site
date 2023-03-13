@@ -19,8 +19,7 @@
     
     <?php include 'includes/header.php'  ?>
 
-    <div class="col-md-12">
-        <div class="container-fluid p-0">
+
             <div class="position-relative">
                 <img class="img-fluid" src="img/new/banner.jpg" alt="">
             </div>
@@ -345,6 +344,9 @@
                             </div>
                         </div>
                     </div>
+                    <div class="pt-5"></div>
+                    <div class="pt-5"></div>
+
                 </div>
 
 
@@ -356,79 +358,387 @@
             <!-- Worldwide clientage & Industry we serve... START -->
 
 
-                <div class="container-fluid">
-                    <div class="p-5 m-5">
+
+                    <div class="p-0 m-0">
                         <div class="row">
                             <div class="col-7">
-                                <div class="pe-4">
+                                <div class="p-5 m-5">
                                     <p class="fs-4">Worldwide clientage</p>
                                     <div class="pt-5"></div>
-                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
-                                        <img class="px-4" src="img/new/client1.png" alt="">
-                                        <img class="px-4" src="img/new/client2.png" alt="">
-                                        <img class="px-4" src="img/new/client3.png" alt="">
-                                        <img class="px-4" src="img/new/client4.png" alt="">
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client1.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client5.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client9.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client13.png" alt="">
+                                        </div>
                                     </div>
-                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
-                                        <img class="px-4" src="img/new/client5.png" alt="">
-                                        <img class="px-4" src="img/new/client6.png" alt="">
-                                        <img class="px-4" src="img/new/client7.png" alt="">
-                                        <img class="px-4" src="img/new/client8.png" alt="">
+
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client2.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client6.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client10.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client14.png" alt="">
+                                        </div>
                                     </div>
-                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
-                                        <img class="px-4" src="img/new/client9.png" alt="">
-                                        <img class="px-4" src="img/new/client10.png" alt="">
-                                        <img class="px-4" src="img/new/client11.png" alt="">
-                                        <img class="px-4" src="img/new/client12.png" alt="">
+
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client3.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client7.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client11.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client15.png" alt="">
+                                        </div>
                                     </div>
-                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
-                                        <img class="px-4" src="img/new/client13.png" alt="">
-                                        <img class="px-4" src="img/new/client14.png" alt="">
-                                        <img class="px-4" src="img/new/client15.png" alt="">
-                                        <img class="px-4" src="img/new/client16.png" alt="">
+
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client4.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client8.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client12.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client16.png" alt="">
+                                        </div>
                                     </div>
-                                    <div class="d-flex flex-wrap align-items-center justify-content-between">
-                                        <img class="px-4" src="img/new/client17.png" alt="">
-                                        <img class="px-4" src="img/new/client18.png" alt="">
-                                        <img class="px-4" src="img/new/client19.png" alt="">
-                                        <img class="px-4" src="img/new/client20.png" alt="">
+
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client20.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client19.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client18.png" alt="">
+                                        </div>
+                                        <div class="col-3 d-flex flex-wrap clientLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 clientLogo img-fluid" src="img/new/client17.png" alt="">
+                                        </div>
                                     </div>
                                 </div>
 
                             </div>
 
                             <div class="col-5 goodBackground" style="background-image: url(img/new/industry-we-serve-bg.jpg);">
+                            <div class="p-5 m-5">
+                                    <p class="fs-4 text-white">Industry we serve...</p>
+                                    <div class="pt-5"></div>
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon1.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon2.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon3.svg" alt="">
+                                        </div>
 
+                                    </div>
+
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon4.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon5.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon6.svg" alt="">
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon7.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon8.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon9.svg" alt="">
+                                        </div>
+
+                                    </div>
+
+                                    <div class="row d-flex  justify-content-center justify-content-center">
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon10.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon11.svg" alt="">
+                                        </div>
+                                        <div class="col-4 d-flex flex-wrap serveLogoDiv align-items-center justify-content-center">
+                                            <img class="px-4 py-3 serveLogo img-fluid" src="img/new/we-serve-icon12.svg" alt="">
+                                        </div>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
+
 
 
             <!-- Worldwide clientage & Industry we serve... END -->
 
 
+
+
+            <!-- Testimonials START  -->
+
+
+                    <div class="bg-light">
+                        <div class="pt-5"></div>
+                        <div class="pt-5 mt-5"></div>
+
+                        <div class="container">
+                            <h2>Testimonials</h2>
+                            <div class="pt-5"></div>
+                            <hr class="border border-danger border-2">
+                            <div class="pt-5 mt-5"></div>
+
+                            <div class="row">
+                                <div class="col-4">
+                                    <div class="testimonialsCard pe-1">
+                                        <div class="bg-white h-100 p-5">
+                                            <p class="testimonialsCardTitle m-0">Srinivasa Reddy</p>
+                                            <p class="testimonialsCardSubTitle m-0">Director Transpaper</p>
+                                            <p class="testimonialsCardSubTitle2 m-0">Uganda Limited</p>
+                                            <p class="testimonialsCardSubPara pt-3 pe-2">Transpaper is associated with Cosmo Films from 2016 and would like to thank Cosmo Team for their constant support throughout all these years of partnership. We have been procuring White & Transparent Label films from them. Our experience of working with them has been wonderful & satisfactory. We really appreciate their dedication to serve their customers & superb technical support. Thanks to our account manager Mr.Siddharth Sharma for his contribution in our growth with his expert advice & support from time to time. We wish to go a long way together.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-4">
+                                    <div class="testimonialsCard px-2">
+                                        <div class="bg-white h-100 p-5">
+                                            <p class="testimonialsCardTitle m-0">Amin Ladha</p>
+                                            <p class="testimonialsCardSubTitle m-0">Managing Director</p>
+                                            <p class="testimonialsCardSubTitle2 m-0">Image Master Tanzania</p>
+                                            <p class="testimonialsCardSubPara pt-3 pe-2">We started our WAL printing unit with Cosmo Films in 2017 and all thanks to Siddharth who guided us & made this association a WIN-WIN situation for both parties. Really appreciate the COSMO team for their constant support throughout all these years of association. Satisfactory working experience. Superb technical support. Wishing you all the best for your new upcoming lines & looking forward to doing more with Cosmo.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-4">
+                                    <div class="testimonialsCard ps-1">
+                                        <div class="bg-white h-100 p-5">
+                                            <p class="testimonialsCardTitle m-0">Sachen Gudka</p>
+                                            <p class="testimonialsCardSubTitle m-0">Managing Director</p>
+                                            <p class="testimonialsCardSubTitle2 m-0">Skanem Interlabels Nairobi Limited</p>
+                                            <p class="testimonialsCardSubPara pt-3 pe-2">Cosmo films has been of great support especially during these unprecedented times in the global supply chain in terms of service and delivery.This has assisted and given us, at Skanem an edge at great customer service and adding value to our customers supply chain; something that to us as Label convertors is key in ensuring we support and continue to do so with our customers alike. Responses to queries and feedback on matters such as market trends is prompt, helping in tightening the overall Supply Chain in a bid to partner to win. At Skanem we are pleased to be working with Cosmo films and trust for even better partnering in future. Kudos to Cosmo films team.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pt-5 mt-5"></div>
+
+                    </div>
+
+
+            <!-- Testimonials END  -->
+
+
+            <!-- Blogs & Posts START  -->
+
+
+
+                    <div class="">
+                        <div class="pt-5"></div>
+                        <div class="pt-5 mt-5"></div>
+
+                        <div class="container">
+                            <h2>Blogs & Posts</h2>
+                            <div class="pt-5"></div>
+
+                            <div class="row">
+                                <div class="col-4">
+                                    <div class="blogsAndPostsCard pe-4">
+                                        <img class="img-fluid pb-2" src="img/new/blogs-and-posts-img1.jpg" alt="">
+                                        <small class="text-black-50">9 Feb 2023</small>
+                                        <p>7 Reasons to Print on Cosmo Synthetic Paper</p>
+                                    </div>
+                                </div>
+
+                                <div class="col-4">
+                                    <div class="blogsAndPostsCard px-2">
+                                        <img class="img-fluid pb-2" src="img/new/blogs-and-posts-img2.jpg" alt="">
+                                        <small class="text-black-50">9 Feb 2023</small>
+                                        <p>7 Reasons to Print on Cosmo Synthetic Paper</p>
+                                    </div>
+                                </div>
+
+                                <div class="col-4">
+                                    <div class="blogsAndPostsCard ps-4">
+                                        <img class="img-fluid pb-2" src="img/new/blogs-and-posts-img3.jpg" alt="">
+                                        <small class="text-black-50">9 Feb 2023</small>
+                                        <p>7 Reasons to Print on Cosmo Synthetic Paper</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pt-5 "></div>
+
+                    </div>
+
+
+
+            <!-- Blogs & Posts END  -->
+
+
+
+            <!-- Experience Our Innovative Products and Solutions at Upcoming Exhibitions SATRT  -->
+
+
+                    <div class="bgRedBlack">
+                        <div class="pt-5"></div>
+                        <div class="pt-3"></div>
+                        <div class="container ">
+                            <h2 class="text-white">
+                            Experience Our Innovative Products and Solutions
+                            <br>
+                            <span class="text-danger">at Upcoming Exhibitions</span>
+                            </h2>
+                            <div class="pt-4"></div>
+                        </div>
+                        <div class="p-0 ps-5 m-0 ms-4">
+                            <div class="owl-carousel owl-theme">
+                                <div class="item"><img src="img/new/exhibitions-banner.jpg" alt=""></div>
+                                <div class="item"><img src="img/new/exhibitions-banner.jpg" alt=""></div>
+                                <div class="item"><img src="img/new/exhibitions-banner.jpg" alt=""></div>
+                            </div>
+                        </div>
+                        <div class="pt-5"></div>
+
+                        <div class="container">
+                            <p class="text-white fs-5">We have kickstarted our exhibition at Label Expo South East Asia 2023 in <br>
+                            Bangkok  displaying the range of cutting-edge products at Cosmo Films</p>
+                        </div>
+                        <div class="pt-5"></div>
+                        <div class="pt-1"></div>
+
+                    </div>
+
+
+            <!-- Experience Our Innovative Products and Solutions at Upcoming Exhibitions END  -->
+
+
+
+
+
+
+
+
+
+            <!-- Stay Informed with Our Latest Media Coverage START  -->
+
+                <div class="container">
+                    <div class="pt-5"></div>
+                    <div class="pt-3"></div>
+
+                    <div class="d-flex align-items-center justify-content-between">
+                        <h2 class="">
+                            Stay Informed with 
+                            <br>
+                            <span class="text-danger">Our Latest Media Coverage</span>
+                        </h2>
+                        <span class="bg-danger">
+                            <p class="p-2 text-white m-0">Read More</p>
+                        </span>
+                    </div>
+
+                    <div class="pt-5"></div>
+
+                    <div class="row">
+                        <div class="col-6">
+                            <img class="img-fluid" src="img/new/media-coverage-img.jpg" alt="">
+                            <p class="fs-4 pt-4">Cosmo Films reports more than 50% increase in quarterly EBITDA YOY</p>
+                        </div>
+
+                        <div class="col-6">
+                            <div class="ps-5">
+                                <ul class="fs-4 text-black">
+                                    <a class="text-black" href="https://www.cosmofilms.com/uploads/releases/media-release-q1-fy-19-20.pdf">
+                                        <li>Cosmo Films Consolidated Results</li>
+                                    </a>
+
+                                    <a class="text-black" href="https://www.cosmofilms.com/uploads/releases/Media%20Release%20Ver-2.pdf">
+                                        <li>Cosmo Films announces CPP film expansion</li>
+                                    </a>
+
+                                    <a class="text-black" href="https://www.cosmofilms.com/uploads/releases/Press%20Release%20_%20Cosmo%20Films%20Ltd.%20Launches%20White%20Cast%20Polypropylene%20(CPP)%20Film%20(3)-2.pdf">
+                                        <li>Cosmo Films Launches White Cast Polypropylene (CPP) Film</li>
+                                    </a>
+
+                                    <a class="text-black" href="https://www.cosmofilms.com/uploads/releases/Q2%20FY22.pdf">
+                                        <li>Cosmo Films posts 96% growth in quarterly EPS</li>
+                                    </a>
+
+                                    <a class="text-black" href="https://www.cosmofilms.com/uploads/releases/media-release-q2-fy19-20.pdf">
+                                        <li>Cosmo Films reports 184% increase in quarterly PAT</li>
+                                    </a>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+
+            <!-- Stay Informed with Our Latest Media Coverage END  -->
+
+
             
 
             <div class="mt-5 pt-5"></div>
-        </div>
-    </div>
     <?php include 'includes/footer.php'  ?>
     <script src="js/owlCarousel/owl.carousel.min.js"></script>
     <script>
     $(document).ready(function() {
 
-        $('#mainCarousel').owlCarousel({
-            animateOut: 'fadeOut',
-            animateIn: 'fadeIn',
-            loop: true,
-            margin: 0,
-            dots: false,
-            nav: false,
-            autoplay: true,
-            autoplayTimeout: 5000,
-            items: 1
-
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:50,
+            nav:false,
+            dots:false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1.2
+                },
+                1000:{
+                    items:1.2
+                }
+            }
         })
     });
     </script>
